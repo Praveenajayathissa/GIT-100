@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 int main()
-{ printf("Enter the Unit price: ");
+{ int weight;
 
+
+    printf("Enter the Unit Weight: ");
+    scanf("%d", weight);
 
 
 
